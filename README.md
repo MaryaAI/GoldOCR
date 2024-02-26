@@ -64,7 +64,7 @@ Just add the path of the image and run the cell!
 
 
 ## Run Web App
-
+python gold_ocr_app.py
 
 ## Future work
 Do more tests and preprocessing for images to optimize the detection of text
